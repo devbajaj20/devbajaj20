@@ -77,15 +77,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devbajaj20&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbajaj20&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbajaj20E&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/devbajaj20/devbajaj20/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -101,13 +101,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/dev-bajaj-a9a586250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:db8681@srmist.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/https://github.com/devbajaj20">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
 </p>
@@ -144,7 +144,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: devbajaj20
           outputs: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
