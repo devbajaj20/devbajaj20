@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+ML+%7C+NLP+Enthusiast;Full+Stack+Developer;Building+Real+World+AI+Solutions;Always+Learning+🚀">
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Devashish%20Bajaj&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>>
 
 ---
 
@@ -101,13 +101,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/dev-bajaj-a9a586250">
+  <a href="https://www.linkedin.com/in/dev-bajaj-a9a586250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:db8681@srmist.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/https://github.com/devbajaj20">
+  <a href="https://github.com/devbajaj20">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
 </p>
